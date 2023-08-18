@@ -3,10 +3,5 @@
 @tailwind utilities;
 
 body {
-	width: 100vw;
-	height: 100vh;
-	background-image: url('/bg.webp');
-	background-size: cover;
-	color: white;
-	font-weight: 600;
+	background-color: #fcf0ef;
 }
