@@ -2,9 +2,12 @@
 	import '../app.css';
 </script>
 
-<main
-	class="max-w-2xl mx-auto min-h-screen p-8 break-words"
-	style="background-color: rgba(127, 140, 239, 0.75);"
->
+<header>
+	<h1>josefina enevold</h1>
+</header>
+
+<main>
 	<slot />
 </main>
+
+<footer>© Josefina Enevold 2023</footer>
